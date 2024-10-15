@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oivalian&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=0D1117)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oivalian&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oivalian&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oivalian&theme=neon&hide_border=true&card_width=300&bg_color=00000000&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oivalian&theme=neon&hide_border=true&bg_color=00000000&layout=compact" />
 </a>
