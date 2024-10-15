@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **oivalian/oivalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oivalian&theme=neon&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D&card_width=1200&background=0D1117)](https://git.io/streak-stats)
